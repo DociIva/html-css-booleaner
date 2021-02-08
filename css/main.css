@@ -1,0 +1,21 @@
+/*generale*/
+.body {
+  font-family: "Roboto", sans-serif;
+}
+/* contenuto del container*/
+.pattern {
+}
+.container {
+  width: 60%;
+  margin: 50px auto;
+}
+.colore1 {
+  background-color: lightskyblue;
+}
+.tabella1 {
+  width: 100%;
+  text-align: left;
+}
+.ultimariga {
+  background-color: lightblue;
+}
